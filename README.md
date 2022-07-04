@@ -1,2 +1,0 @@
-# tiem
-Nro key
